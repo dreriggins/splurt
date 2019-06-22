@@ -52,7 +52,7 @@ gem 'bootstrap', '4.0.0.alpha6'
 gem 'country_select'
 gem 'activemodel'
 gem 'railties'
-gem 'rake'
+#gem 'rake'
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
 gem 'bootsnap', '>= 1.1.0', require: false
 
